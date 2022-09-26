@@ -1,0 +1,13 @@
+.container{
+    width: 600px;
+    background-color: blueviolet;
+    display: flex;
+    flex-direction: row ;
+}
+.item-1{
+    width: 100px;
+    background-color: beige;
+    border: 2px #140606;
+    padding: 10px;
+    text-align: center;
+}
